@@ -1,4 +1,4 @@
-module tool
+module github.com/pecolee/tool
 
 go 1.18
 
